@@ -16,5 +16,6 @@ public class gitTest {
         System.out.println("这是一次大的测试");
         System.out.println("safioasf");
         System.out.println("push test");
+        System.out.println("push test2222");
     }
 }
