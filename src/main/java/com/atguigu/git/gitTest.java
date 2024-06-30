@@ -11,6 +11,5 @@ public class gitTest {
     public static void main(String[] args) {
         System.out.println("这是git测试");
         System.out.println("这是git测试2");
-        System.out.println("这是hot-fix做出的修改");
     }
 }
